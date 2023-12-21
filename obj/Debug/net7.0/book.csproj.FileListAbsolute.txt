@@ -1,0 +1,14 @@
+/Users/mac/Desktop/book/bin/Debug/net7.0/book
+/Users/mac/Desktop/book/bin/Debug/net7.0/book.deps.json
+/Users/mac/Desktop/book/bin/Debug/net7.0/book.runtimeconfig.json
+/Users/mac/Desktop/book/bin/Debug/net7.0/book.dll
+/Users/mac/Desktop/book/bin/Debug/net7.0/book.pdb
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.AssemblyInfoInputs.cache
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.AssemblyInfo.cs
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.dll
+/Users/mac/Desktop/book/obj/Debug/net7.0/refint/book.dll
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.pdb
+/Users/mac/Desktop/book/obj/Debug/net7.0/book.genruntimeconfig.cache
+/Users/mac/Desktop/book/obj/Debug/net7.0/ref/book.dll
